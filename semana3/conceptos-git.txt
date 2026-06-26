@@ -1,0 +1,10 @@
+Repositorio: la carpeta donde Git guarda el proyecto, el código, los archivos
+y el historial completo de todos los cambios que se han hecho. Puede ser local
+(en el pc) o remoto (como en GitHub)
+
+Commit: una foto del estado del proyecto en un momento específico, acompañada
+de un mensaje que describe qué se cambió. Queda guardado en el historial de Git 
+para que se pueda rastrear la evolución del código
+
+Push: es el comando que sube los commits del repositorio local al repositorio 
+remoto, como GitHub, para que otros puedan verlos y acceder a ellos
