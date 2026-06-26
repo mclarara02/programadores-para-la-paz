@@ -1,0 +1,9 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+
+Creo que las tres cosas tienen más en común de lo que parece a primera vista, porque en el fondo todos giran alrededor de lo mismo: las decisiones humanas.
+El algoritmo no aparece de la nada, alguien lo diseña, alguien decide qué información prioriza y cómo se muestra, y eso tiene un impacto directo en cómo nos informamos y participamos como ciudadanos. 
+
+Herramientas como Git son un buen ejemplo de esto, ya que permiten que varias personas trabajen sobre un mismo proyecto de forma organizada, registrando cada cambio y quién lo hizo, lo que en sí mismo es una forma de responsabilidad colectiva.
+Y si lo pensamos un poco más, en el fronted define lo que el usuario ve y cómo interactúa con la información, mientras que el backend determina qué datos se procesan y cómo; dos capas distintas pero que juntas construyen la experiencia de millones de personas.
+
+Entonces la relación que encuentro es que ser responsable con la información, participar activamente y trabajar bien en equipo técnico son todas expresiones de lo mismo: entender que lo que hacemos (ya sea publicar, opinar o hacer un commit) tiene consecuencias reales para los demás.
