@@ -1,0 +1,9 @@
+En la ruta "http://localhost:3000": sale el mensaje servidor activo en una Interfaz
+totalmente blanca 
+
+En la ruta "http://localhost:3000/saludo" sale el mensaje de "hola comunidad"
+
+En la ruta "http://localhost:3000/mensaje/juan" es lo que estaba sugerido en la 
+plataforma de instrucciones, sin embargo por como está el código donde tiene la constante
+de un nombre, se puede poner cualquier nombre al que uno quiera saludar. Por lo 
+que yo puse el mío así que vi el mensaje "Hola Clara"

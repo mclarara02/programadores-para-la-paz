@@ -1,0 +1,11 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas de manera organizada?
+
+Las APIs son interfaces que permiten que distintos sistemas o aplicaciones se 
+comuniquen entre sí, y creo que eso las convierte en una herramienta muy 
+poderosa para las comunidades. Por ejemplo, una comunidad podría construir una 
+plataforma propia donde los vecinos reporten alertas o incidentes, y a través de una
+API esa información podría conectarse con otros sistemas (como un mapa, una base de
+datos pública o incluso una cuenta de redes sociales) para que se difunda de forma 
+automática y organizada. Eso evita que la información quede dispersa en distintos 
+chats o publicaciones sueltas, y permite que llegue de manera estructurada a quienes
+la necesitan. 
