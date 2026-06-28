@@ -1,0 +1,21 @@
+COMANDOS 
+
+El comando "uname -a"
+MINGW64_NT-10.0-26200 Clara-Rivera 3.6.7-fb42d713.x86_64 2026-03-29 11:44 UTC x86_64 Msys
+
+muestra información completa del sistema operativo, incluyendo el nombre del kernel, su versión, la 
+arquitectura del procesador y el nombre del equipo, básicamente una ficha técnica del entorno en el que 
+se trabaja. 
+
+El comando "whoami"
+maria_rxdc9qb
+
+indica el nombre del usuario activo en ese momento, lo que permite saber con qué permisos se están 
+ejecutando los comandos.
+
+
+Conocer esta información es útil al administrar un servidor porque antes de instalar algo o solucionar un 
+problema, necesitas saber exactamente en qué entorno estás operando. No todos los paquetes o 
+configuraciones funcionan igual en todas las versiones o arquitecturas, y saber si estás trabajando como 
+usuario normal o con permisos de administrador puede marcar la diferencia entre una acción segura y un 
+error grave.

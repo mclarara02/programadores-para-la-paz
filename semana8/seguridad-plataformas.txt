@@ -1,0 +1,7 @@
+Prácticas de seguridad 
+
+1. Cifrar de extremo a extremo la información almacenada (como lo hace WhatsApp con los chats)
+2. Validar los datos que entran al sistema 
+3. Mantener las depencias y las librerías actualizadas 
+4. Implementar límites de intentos de acceso 
+5. Hacer copias de seguridad periódicas 

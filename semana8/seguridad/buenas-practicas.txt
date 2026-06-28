@@ -1,0 +1,5 @@
+Práctica 1: Cerrar sesión en dispositivos compartidos 
+
+Práctica 2: Desconfiar de enlaces sospechosos envíados por extraños
+
+Práctica 3: Usar auntenticación de dos pasos 
