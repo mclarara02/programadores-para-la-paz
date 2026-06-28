@@ -1,0 +1,8 @@
+Reporte de la comunidad 
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Baches en la carretera",
+  "descripcion": "La comunidad reporta que en la calle principal del pueblo hay tres baches que llevan 
+  más de un año sin reparar y perjudica la vía de acceso"
+}

@@ -1,0 +1,12 @@
+RESPUESTA ENVIADA EN EL POST 
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Al ejecutar la petición POST a /registro con un nombre y un mensaje, el servidor respondió con un 
+JSON que contenía exactamente los datos que le envié, confirmando que los recibió correctamente.
+Esto me permitió entender que el servidor toma lo que llega en el body y lo devuelve estructurado
+en la respuesta. 
