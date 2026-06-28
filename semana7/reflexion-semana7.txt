@@ -1,0 +1,12 @@
+¿Por qué es importante que las comunidades puedan registrar y consultar reportes o incidencias en una plataforma tecnológica?
+
+Porque poder registrar y y consultar reportes en una plataforma tecnológica le da mucha más agilidad a 
+la veeduría, ya que tener todo centralizado en un mismo lugar facilita revisar incidencias, hacerles 
+seguimiento y acceder a ellas en cualquier momento sin depender de que alguien las recuerde o las busque 
+manualmente. Muchas veces los procesos de denuncia quedan guardados en papeles en una oficina a la que 
+poca gente tiene acceso, o simplemente se pierden en el camino sin que nadie se entere, y eso es algo que 
+una plataforma tecnológica puede cambiar. Además de organizar la información, ofrece mayor seguridad sobre
+los datos, lo que genera más confianza en quienes reportan, especialmente cuando se trata de información 
+sensible. Saber que existe un registro digital al que se puede volver y que no va a desaparecer hace que 
+las personas se animen más a participar, porque sienten que su reporte tiene un destino real y no va a 
+quedar en el vacío como tantas veces pasa con los trámites tradicionales.

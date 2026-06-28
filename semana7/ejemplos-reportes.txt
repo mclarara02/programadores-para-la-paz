@@ -1,0 +1,16 @@
+Ejemplo de reporte 1:
+
+{
+  "tipo": "Infraestructura vial",
+  "descripcion": "Un conductor del pueblo reporta que en la mayoría de las calles alrededor del parque 
+    los semáforos no funcionan"
+}
+
+Ejemplo de reporte 2:
+
+{
+  "tipo": "Salud pública",
+  "descripcion": "Los habitantes del barrio reportan que hay una gran cantidad de habitantes de calle en 
+  las ceras de sus casas y eso implica un mercado de sustancias en los alrededores"
+}
+

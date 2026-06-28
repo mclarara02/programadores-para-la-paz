@@ -1,0 +1,28 @@
+Resultado del reporte en POST 
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura vial",
+    "descripcion": "Un conductor del pueblo reporta que en la mayoría de las calles alrededor del parque 
+    los semáforos no funcionan"
+  }
+}
+
+Con la URL http://localhost:3000/reportes dentro del Thunder Client pongo en el cuerpo el reporte con su 
+tipo y descripción, cuando envío el POST sale esta respuesta 
+
+Resultado del reporte en GET 
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura vial",
+    "descripcion": "Un conductor del pueblo reporta que en la mayoría de las calles alrededor del parque 
+    los semáforos no funcionan"
+  }
+]
+
+Con la misma URL pero ahora mandando el JSON en GET, la diferencia es que cuando sale la respuesta en 
+este último no incluye el mensaje "reporte registrado" y directamente me manda con el id
