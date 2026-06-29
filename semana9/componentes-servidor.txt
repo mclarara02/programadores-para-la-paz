@@ -1,0 +1,19 @@
+Funciones de componentes 
+
+- Sistema operativo: Es el software base que administra el hardware y permite que todo lo demás funcione
+encima de él. Sin el sistema no habría forma de ejecutar aplicaciones ni de interactuar con el 
+computador.
+
+- Node.js: Es el entorno que permite ejecutar JavaScript del lado del servidor, por fuera del navegador.
+Gracias a él podemos construir el backend de una aplicación web con JavaScript.
+
+- Aplicación server.js: Es el archivo principal donde se configura y levanta el servidor, definiendo las 
+rutas, los middlewares y el puerto en el que va a escuchar. Es básicamente el punto de entrada de la 
+aplicación.
+
+- Puerto: Es la puerta específica por la que el servidor espera recibir solicitudes. Es lo que permite que 
+el sistema sepa a cuál aplicación dirigir cada peticióin cuando hay varias corriendo al mismo tiempo.
+
+- Logs: Son los registros que guarda el servidor sobre todo lo que ocurre durante su ejecución, desde 
+solicitudes recibidas hasta errores. Son clave para monitorear que todo esté funcionando bien y para 
+identificar problemas cuando algo falla.

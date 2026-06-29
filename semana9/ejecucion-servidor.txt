@@ -1,0 +1,14 @@
+Después de poner el código dentro del archivo "server.js" lo primero que se debe hacer si se está 
+trabajando en Visual Studio Core como es mi caso, es dar control+s para poder guardar lo que se acaba 
+de crear. He tenido ese error varias veces y en el momento de poner en la terminal "node server.js" no me
+salía nada, pero una vez guardado todo cuando se ejecuta en la terminal sale el mensaje "servidor 
+ejecutándose en puerto 3000". 
+
+Cuando pongo en el navegador "http://localhost:3000" sale el mensaje "servidor activo y funcionando" en 
+cambio cuando pongo "http://localhost:3000/estado" sale: 
+
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
+

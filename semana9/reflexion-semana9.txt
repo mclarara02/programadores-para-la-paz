@@ -1,0 +1,14 @@
+¿Por qué es importante que las plataformas tecnológicas que usan las comunidades funcionen de manera estable y segura en un servidor?
+
+Porque los datos que una comunidad comparte ahí deben estar protegidos. Una plataforma inestable no solo
+genera problemas técnicos sino que también es una señal de que algo puede estar fallando por dentro, y eso
+le quita confianza a las personas para usarla, para reportar incidencias y para compartir su opinión 
+dentro de ella. Y sin esa confianza, la participación simplemente no ocurre.
+
+Además, hay que tener en cuenta que lo digital es algo relativamente nuevo para muchos grupos de personas,
+y acercarse a una plataforma tecnológica ya implica un esfuerzo para quienes no están familiarizados con 
+ella. Por eso la estabilidad y la seguridad no son opcionales, son el argumento más fuerte para demostrarle
+a esas personas que pueden usarla sin miedo a que su información se pierda, se filtre o sea mal 
+utilizada. Una plataforma que funciona bien y protege los datos de quienes la usan no solo cumple una 
+función técnica, sino que también construye un vínculo de confianza con la comunidad que es muy difícil de
+recuperar una vez se rompe. 
